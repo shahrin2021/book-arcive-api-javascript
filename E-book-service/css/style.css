@@ -1,0 +1,12 @@
+
+.title{
+    color: hsl(147, 50%, 47%);
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.subtitle{
+    color: hsl(248, 53%, 58%);
+    text-align: center;
+    margin-bottom: 30px;
+}
